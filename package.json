@@ -1,5 +1,5 @@
 {
-  "name": "express-getting-started",
+  "name": "express-starter-template",
   "version": "0.0.0",
   "private": true,
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "wesbos"
+      "airbnb"
     ],
     "rules": {
       "no-fallthrough": 0
